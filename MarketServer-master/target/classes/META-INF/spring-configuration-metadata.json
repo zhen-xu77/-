@@ -1,0 +1,12 @@
+{
+  "groups": [
+    {
+      "name": "spring.datasource.druid.primary",
+      "type": "javax.sql.DataSource",
+      "sourceType": "com.wishes.market.config.db.PrimaryDB",
+      "sourceMethod": "buildDataSource()"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
